@@ -228,7 +228,7 @@ nav::-webkit-scrollbar-track {
 /* HOME */
 
 #home {
-    background-image: url('../img/aula_magna.webp');
+    background-image: url('../img/bg/aula_magna.webp');
     background-size: auto 100vh;
     background-position: center;
 }
