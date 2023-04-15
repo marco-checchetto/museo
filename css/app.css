@@ -289,7 +289,6 @@ nav::-webkit-scrollbar-track {
 /* INTRODUZIONE */
 
 #desc {
-    display: flex;
     height: 100%;
 }
 
