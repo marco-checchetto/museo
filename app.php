@@ -81,7 +81,7 @@
         </section>
 
         <footer>
-            <p>Copyright &copy 20<?= date('y') ?> <a href="https://www.iisfalcone-righi.edu.it/" target="_blank" style="text-decoration: none; color: brown;">IIS Falcone Righi</a></p>
+            <p>Copyright &copy <?= date('Y') ?> <a href="https://www.iisfalcone-righi.edu.it/" target="_blank" style="text-decoration: none; color: brown;">IIS Falcone Righi</a></p>
         </footer>
     </div>
 </body>
